@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2",
+    "title": "ultiiiii Producto",
+    "description": "Descripción del producto",
+    "code": "12345",
+    "price": 100,
+    "status": true,
+    "stock": 50,
+    "category": "Electrónica",
+    "thumbnails": [
+      "ruta/imagen1.jpg",
+      "ruta/imagen2.jpg"
+    ]
+  }
+]
